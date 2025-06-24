@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": 1750256500290,
+    "text": "hallo ",
+    "completed": false
+  },
+  {
+    "id": 1750256507104,
+    "text": "that is soooo cool",
+    "completed": false
+  }
+]
